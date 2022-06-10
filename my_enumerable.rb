@@ -1,4 +1,4 @@
-# Module defined in MyEnumerable.rb
+# Module defined in my_enumerable.rb
 
 module MyEnumerable
   def all?
