@@ -1,5 +1,5 @@
 $LOAD_PATH << '.'
-require 'my_enumerable.rb'
+require 'my_enumerable'
 
 class MyList
   include MyEnumerable
